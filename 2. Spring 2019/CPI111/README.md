@@ -1,0 +1,1 @@
+CPI111 is the first game development course in the Computer Gaming Certificate. Through in-class workshops, take-home assignments, and a final project, students learn the fundamentals of game development using GameMaker Studio 2.
