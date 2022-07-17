@@ -1,0 +1,3 @@
+This repository is an attempt at archiving all the coursework I have completed during my pursuit for a Bachelor's in Software Engineering at ASU. Top-level folders will organize content by semesters. Semester level folders will contain class folders, which will in turn contain coursework content.
+
+Please note that earlier courses might have content not properly archived. To address this, each semester folder will contain a readme outlining every course I have taken during that semester.
