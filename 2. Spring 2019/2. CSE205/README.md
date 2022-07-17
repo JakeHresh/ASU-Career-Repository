@@ -1,0 +1,1 @@
+CSE205 is a class designed to teach students object-oriented concepts and data structures in Java.
