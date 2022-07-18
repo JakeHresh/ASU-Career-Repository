@@ -1,0 +1,1 @@
+CPI321 was an elective Game Art class in the Computer Gaming Certificate. It tasked students with practicing art creation in various digital tools, including Photoshop, Illustrator, 3ds Max, SpriteStudio, etc.
