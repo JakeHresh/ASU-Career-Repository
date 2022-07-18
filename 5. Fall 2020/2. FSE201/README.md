@@ -1,0 +1,1 @@
+This semester's FSE201 class was my Undergraduate Teaching Assistant position for a CSE240 class. Assignments indicate how I assisted in the class.

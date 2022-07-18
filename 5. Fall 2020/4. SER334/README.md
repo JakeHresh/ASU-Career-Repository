@@ -1,0 +1,1 @@
+SER334 was an Operating Systems class that challenged students to write low-level (i.e. kernel-level) code in a Xubuntu VM. The class also explored parallel programming concepts through image processing exercises.

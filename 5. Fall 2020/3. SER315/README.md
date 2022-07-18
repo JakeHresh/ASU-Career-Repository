@@ -1,0 +1,1 @@
+SER315 was another major course in the Software Engineering curriculum at ASU. It allowed students to continue practicing UML diagramming and introduced Scrum in a semester-long project.
