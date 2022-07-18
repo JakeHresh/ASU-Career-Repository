@@ -1,0 +1,1 @@
+SER415 was another course on Software Engineering process that focused on requirements quality.

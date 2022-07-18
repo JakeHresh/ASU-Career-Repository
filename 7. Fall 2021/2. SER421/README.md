@@ -1,0 +1,1 @@
+SER421 was a class on Web-Based Applications. It provided students with a brief historical perspective on the internet and challenged students to implement different types of web applications.

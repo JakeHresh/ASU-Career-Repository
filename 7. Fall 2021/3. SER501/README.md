@@ -1,0 +1,1 @@
+SER501 was an advanced course on Data Structures and Algorithms. The course had a heavy emphasis on the analysis of algorithms.
