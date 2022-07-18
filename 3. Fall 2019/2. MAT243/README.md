@@ -1,0 +1,1 @@
+MAT243 was a Discrete Math class that introduced discrete math concepts in order to introduce important mathematical and algorithmic concepts that are present in other Software Engineering applications.
