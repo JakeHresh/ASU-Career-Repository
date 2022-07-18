@@ -1,0 +1,1 @@
+CPI311 is the Game Engine Development class in the Computer Gaming Certificate. This course taught students what goes into the creation of a game engine using the MonoGame framework.
