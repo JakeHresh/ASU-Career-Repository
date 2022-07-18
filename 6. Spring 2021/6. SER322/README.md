@@ -1,0 +1,1 @@
+SER322 was a class on Database Management. It taught the basics of relational databases and challenged students to develop their own Java application that interfaced with a MySQL database via JDBC.

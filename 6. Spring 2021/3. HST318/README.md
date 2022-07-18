@@ -1,0 +1,1 @@
+HST318 was class on the History of Engineering that challenged students to research various civilizations and technologies to discover our modern understanding of engineering.
