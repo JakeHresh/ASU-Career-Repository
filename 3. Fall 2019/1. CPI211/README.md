@@ -1,0 +1,1 @@
+CPI211 is the second core course in the Computer Gaming Certificate. This course focuses on the development of 3D games in Unity in game jam exercises with groups. This class allowed me to work with several other students to produce a final project that involved rotating the entire stage in a 3D platformer. It was the highest graded project in the class.
