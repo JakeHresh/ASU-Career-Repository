@@ -1,0 +1,1 @@
+CPI441 was an elective graphics course in the Computer Gaming Certificate. Using the MonoGame framework from CPI311, students were tasked with creating their own visual effects using HLSL.
