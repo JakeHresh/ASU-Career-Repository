@@ -1,0 +1,1 @@
+Sgt. Smiles is a 2D top-down action game developed in GameMaker Studio 2. It was my first game project before entering university and is a project I hold a lot of pride in since it helped me set off on the path toward becoming a game developer.
